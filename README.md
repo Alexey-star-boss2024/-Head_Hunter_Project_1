@@ -71,7 +71,7 @@
 
 ## Ссылки на данные:
 
-* [Данные поиска вакансий](https://drive.google.com/drive/folders/12lBX1DDcScC5uJl7sNZYyVJMeKjviv8_)
-* [Данные валют](https://drive.google.com/drive/folders/12lBX1DDcScC5uJl7sNZYyVJMeKjviv8_)
+* [Данные поиска вакансий]
+* [Данные валют]
 
 [к оглавлению](#Оглавление)
