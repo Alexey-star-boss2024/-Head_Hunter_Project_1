@@ -65,9 +65,6 @@
 [к оглавлению](#Оглавление)
 
 ## Графики в plotly
-
-* [Графики в plotly](https://nbviewer.org/github/MariaKhanova/HeadHunterProject/tree/master/plotly/)
-
  
 
 [к оглавлению](#Оглавление)
